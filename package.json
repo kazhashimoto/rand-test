@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/kazhashimoto/rand-test#readme",
   "dependencies": {
+    "commander": "^10.0.0",
     "mersenne-twister": "^1.1.0"
   }
 }
